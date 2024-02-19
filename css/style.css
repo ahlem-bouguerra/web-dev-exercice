@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(230, 162, 187);
+    display: grid;
+    row-gap: center;
+}
+
+.header{
+    background-color: rgb(156, 79, 228);
+    width: 520px;
+    height: 520px;
+    text-align: center;
+    color: beige;
+    
+    
+}
+.image{
+    width: 200px;
+    height: 200px;
+}
+.header h1{
+    font-size: 25px;
+}
+.header p{
+    font-size: 19px;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+}
+.header ul{
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 20px;
+}
